@@ -1,6 +1,6 @@
 # Changelog
 
-### 46.0.3 [#PR_NUMBER](https://github.com/openfisca/openfisca-core/pull/PR_NUMBER)
+### 46.0.3 [#1410](https://github.com/openfisca/openfisca-core/pull/1410)
 
 #### Bug fixes
 
